@@ -14,3 +14,5 @@ export default function NavbarItem({ title, param }) {
         </Link>
     )
 }
+
+
